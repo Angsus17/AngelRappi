@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolleySoftdem</string>
+    <string name="no_internet">No tiene acceso a internet</string>
+    <string name="generic_error">Sucedió un error</string>
+    <string name="error_server">Servidor no encontrado.</string>
+    <string name="generic_server_down">El servidor no responde</string>
+    <string name="timeout_error">servicios: timeout error</string>
+
+    <string name="mensaje_titulo_enviando">Enviando información</string>
+    <string name="mensaje_espera">Por favor espere...</string>
+</resources>

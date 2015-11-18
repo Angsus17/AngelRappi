@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rappi</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- String Splah -->
+    <string name="iniciar">INICIAR</string>
+    <string name="mensaje_splah">BIENVENIDO</string>
+    <string name="autor">Angel González Cruz</string>
+
+    <!-- String Menu-->
+    <string name="correo">angel.glez.cruz17@gmail.com</string>
+    <string name="categoria">Categorías</string>
+    <string name="developers">Developers</string>
+</resources>
